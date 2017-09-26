@@ -1,2 +1,2 @@
 # alexa_skill_presidents_quiz
-A basic skill for Alexa. If you publish a skill for her in January you can receive a free hoodie.
+A basic skill for Alexa that tests your knowledge of the U.S. Presidents.
